@@ -19,7 +19,7 @@ cd $node_name
 
 npm i firoorg/bitcore-node-zcoin#spark
 node_modules/bitcore-node-zcoin/bin/bitcore-node-zcoin install firoorg/insight-ui-zcoin
-node_modules/bitcore-node-zcoin/bin/bitcore-node-zcoin install firoorg/insight-api-zcoin#saprk
+node_modules/bitcore-node-zcoin/bin/bitcore-node-zcoin install firoorg/insight-api-zcoin#spark
 
 find . -name "zcore-lib" -type d -not -path "./node_modules/zcore-lib" | xargs rm -rf
 
