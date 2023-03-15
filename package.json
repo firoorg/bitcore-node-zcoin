@@ -34,9 +34,9 @@
     ],
     "dependencies": {
         "async": "^1.3.0",
-        "zcore-lib": "git://github.com/firoorg/zcore-lib.git",
+        "zcore-lib": "git://github.com/levonpetrosyan93/zcore-lib.git",
         "bitcoind-rpc-zcoin": "git://github.com/firoorg/bitcoind-rpc-zcoin.git",
-        "bitcore-p2p-zcoin": "git://github.com/firoorg/bitcore-p2p-zcoin.git",
+        "bitcore-p2p-zcoin": "git://github.com/levonpetrosyan93/bitcore-p2p-zcoin.git",
         "body-parser": "^1.13.3",
         "colors": "^1.1.2",
         "commander": "^2.8.1",
