@@ -6,7 +6,7 @@
     "main": "./index.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:firoorg/bitcore-node-zcoin.git#spark"
+        "url": "git@github.com:firoorg/bitcore-node-zcoin.git#spark_testnet"
     },
     "homepage": "https://github.com/firoorg/bitcore-node-zcoin",
     "bugs": {
